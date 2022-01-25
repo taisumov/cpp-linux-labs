@@ -1,0 +1,12 @@
+Writing to the file... 20245 6
+Writing to the file... 20245 5
+Writing to the file... 20245 4
+Writing to the file... 20245 3
+Writing to the file... 20245 2
+Writing to the file... 20245 1
+Writing to the file... 20250 6
+Writing to the file... 20250 5
+Writing to the file... 20250 4
+Writing to the file... 20250 3
+Writing to the file... 20250 2
+Writing to the file... 20250 1
